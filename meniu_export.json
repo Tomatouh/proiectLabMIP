@@ -1,0 +1,61 @@
+[
+  {
+    "gramaj": 450,
+    "isVegetarian": true,
+    "nume": "Pizza Margherita",
+    "pret": 45.0,
+    "categorie": "FEL_PRINCIPAL"
+  },
+  {
+    "gramaj": 400,
+    "isVegetarian": false,
+    "nume": "Paste Carbonara",
+    "pret": 52.5,
+    "categorie": "FEL_PRINCIPAL"
+  },
+  {
+    "gramaj": 200,
+    "isVegetarian": true,
+    "nume": "Bruschete",
+    "pret": 25.0,
+    "categorie": "APERITIV"
+  },
+  {
+    "gramaj": 150,
+    "isVegetarian": true,
+    "nume": "Lava Cake",
+    "pret": 30.0,
+    "categorie": "DESERT"
+  },
+  {
+    "gramaj": 180,
+    "isVegetarian": true,
+    "nume": "Tiramisu",
+    "pret": 32.0,
+    "categorie": "DESERT"
+  },
+  {
+    "volum": 400,
+    "nume": "Limonadă",
+    "pret": 15.0,
+    "categorie": "BAUTURI_RACORITOARE"
+  },
+  {
+    "volum": 750,
+    "nume": "Vin Roșu Premium",
+    "pret": 120.0,
+    "categorie": "BAUTURI_ALCOOLICE"
+  },
+  {
+    "blat": "PUFOS",
+    "sos": "BBQ",
+    "toppinguri": [
+      "Salam",
+      "Ciuperci",
+      "Extra Mozzarella"
+    ],
+    "nume": "Pizza Custom (PUFOS)",
+    "pret": 39.0,
+    "categorie": "FEL_PRINCIPAL"
+  }
+]
